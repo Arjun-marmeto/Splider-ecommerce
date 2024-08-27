@@ -1,8 +1,8 @@
 :root {
     --nav-height: 4rem;
     --nav-spacing: 5px; /* Increased spacing */
-    --nav-item-font-size: 1.75rem;
-    --nav-signup-font-size: 1.5rem;
+    --nav-item-font-size: 1.5rem;
+    --nav-signup-font-size: 1.2rem;
     --nav-signup-border-radius: 2rem; /* Rounded border for Sign Up */
     --title-font-size: 3.5rem; /* Increased size */
     --subtitle-font-size: 3rem; /* Adjusted size */
@@ -71,7 +71,6 @@
     font-size: var(--title-font-size);
     font-weight: bolder;
     color: rgb(255, 255, 255);
-    font-size: 60px;
   }
   
   .description__subtitle {
