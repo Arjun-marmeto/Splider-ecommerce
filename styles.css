@@ -34,7 +34,7 @@
   .nav-bar__logo {
     display: flex;
     align-items: center;
-    padding-left: 40px;
+    padding-left: 30px;
   }
   
   .nav-bar__title {
@@ -71,7 +71,7 @@
     font-size: var(--title-font-size);
     font-weight: bolder;
     color: rgb(255, 255, 255);
-    font-size: 65px;
+    font-size: 60px;
   }
   
   .description__subtitle {
@@ -100,7 +100,7 @@
     font-size: var(--price-font-size);
     font-weight: bold;
     color: rgb(255, 255, 255);
-    font-size: 70px;
+    font-size: 65px;
   }
   
   .description__social-media {
